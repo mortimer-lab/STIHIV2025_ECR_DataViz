@@ -1,6 +1,15 @@
 # STIHIV2025_ECR_DataViz
 Resources for the Data Visualization Workshop at STI HIV 2025
 
+## Software Requirements
+
+This workshop requires [R](https://cran.rstudio.com/) (version >= 4.2). We also recommend [RStudio](https://posit.co/download/rstudio-desktop/).
+
+Additionally, vizualizations will use the following R packages:
+- [tidyverse](https://www.tidyverse.org/)
+- [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
+- [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
+
 ## data
 Input data to use during workshop activities
 
