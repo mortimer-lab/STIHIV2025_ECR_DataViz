@@ -28,11 +28,17 @@ Tetracycline susceptibility genotypes and phenotypes from publicly available *Ne
 ## figures
 Directory containing example output for the data and scripts in this repository
 
+### abx_genotype_phenotype.png
+Example figure created by `abx_genotype_phenotype.R`.
+
 ### sexual_behavior_mic.png
 Example figure created by `sexual_behavior_MIC.R`.
 
 ## scripts
 Directory containing example scripts to visualize the data in this repository
+
+### abx_genotype_phenotype.R
+Script to recreate Figure 1 from [Mortimer, Zhang et al. 2022](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(22)00034-9/fulltext).
 
 ### sexual_behavior_MIC.R
 Script to recreate Figure 2C from [Mortimer et al. 2020](https://academic.oup.com/cid/article/73/9/e3146/5896040).
