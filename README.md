@@ -5,8 +5,12 @@ Resources for the Data Visualization Workshop at STI HIV 2025
 
 This workshop requires [R](https://cran.rstudio.com/) (version >= 4.2). We also recommend [RStudio](https://posit.co/download/rstudio-desktop/).
 
+All scripts have been tested using R version 4.3.3.
+
 Additionally, vizualizations will use the following R packages:
 - [tidyverse](https://www.tidyverse.org/)
+- [janitor](https://cran.r-project.org/web/packages/janitor/index.html)
+- [viridis](https://cran.r-project.org/web/packages/viridis/index.html)
 - [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
 - [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
 
