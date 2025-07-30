@@ -21,7 +21,7 @@ colnames(sti_surveillance)
 colnames(sti_surveillance_clean)
 
 # select columns we are interested in 
-gc_ct_surveillance <- sti_surveillance %>% select(year, gonorrhea_rate, chlamydia_rate)
+gc_ct_surveillance <- sti_surveillance_clean %>% select(year, gonorrhea_rate, chlamydia_rate)
 
 # filter to years with both gonorrhea and chlamydia rates
 gc_ct_surveillance <- gc_ct_surveillance %>% drop_na()
